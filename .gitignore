@@ -1,0 +1,9 @@
+#Ignora los archivos .class y .swp
+*.class
+*.swp
+
+#Ignora los arhivos del IDE de Eclipse
+.settings
+.project
+.classpath
+.metadata
